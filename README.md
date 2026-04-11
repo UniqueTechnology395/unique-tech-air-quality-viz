@@ -44,4 +44,4 @@
 ---
 **Αναπτύχθηκε με ❤️ από την Ομάδα Unique Tech.**
 
-[Email](mailto:uniquetech@example.com) | [Blog](https://uniquetechblog.blogspot.com)
+[Email](mailto:UniqueTech2025@outlook.com.gr) | [Blog]([https://uniquetechblog.blogspot.com](https://uniquetech-robotics.blogspot.com/))
