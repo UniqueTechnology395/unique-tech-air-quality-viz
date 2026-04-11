@@ -20,7 +20,6 @@
 | :--- | :--- | :--- |
 | **`/src`** | <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" alt="Arduino"> Κώδικας αισθητήρων (`.ino`) & διαγράμματα σύνδεσης. | I2C, Serial, SCD4x |
 | **`/src/software`** | <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"> Το Live Dashboard, η επικοινωνία με το Arduino (`app.py`) και οι εξαρτήσεις (`requirements.txt`). | Pandas, PySerial |
-| **`/docs`** | Παρουσιάσεις, ερευνητικά δεδομένα, αφίσες και φωτογραφίες του project. | PDF, PNG |
 
 ## 🚀 Γρήγορη Εκκίνηση
 
